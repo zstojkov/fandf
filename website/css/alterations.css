@@ -1,0 +1,13 @@
+#altlist
+{
+	margin-left: 30px;
+}
+#altlist td
+{
+	width: 170px;
+	font-size: 14px;
+}
+#altlist h3
+{
+	font-size: small;
+}
