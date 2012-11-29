@@ -15,7 +15,7 @@ function changeTo(el)
 {
 /* fade out and fade in subpages */
   $('.subpage:visible').fadeOut(1000);
-  $('.tmenu p').css("text-decoration","none");
+  $('.sidemenu p').css("text-decoration","none");
   $('.subpage[id='+el.innerHTML+']').fadeIn(1000);
 /* underline selected subpage name in the side menu  */
   el.style.textDecoration = 'underline';
