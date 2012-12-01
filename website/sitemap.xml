@@ -26,10 +26,10 @@
   <priority>0.3</priority>
 </url>
 <url>
-  <loc>http://www.fashionandfurnishing.co.uk/fashion-furnishings/fabrics.htm</loc>
+  <loc>http://www.fashionandfurnishing.co.uk/fashion-furnishings/how-we-work.htm</loc>
   <lastmod>2011-06-10T06:37:54+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.6</priority>
+  <priority>0.3</priority>
 </url>
 <url>
   <loc>http://www.fashionandfurnishing.co.uk/fashion-furnishings/links.htm</loc>
@@ -38,16 +38,10 @@
   <priority>0.3</priority>
 </url>
 <url>
-  <loc>http://www.fashionandfurnishing.co.uk/fashion-furnishings/design.htm</loc>
-  <lastmod>2011-06-10T13:01:52+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.3</priority>
-</url>
-<url>
   <loc>http://www.fashionandfurnishing.co.uk/index.htm</loc>
   <lastmod>2011-06-10T20:20:18+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://www.fashionandfurnishing.co.uk/soft-furnishings/curtains.htm</loc>
@@ -71,7 +65,7 @@
   <loc>http://www.fashionandfurnishing.co.uk/soft-furnishings/upholstery.htm</loc>
   <lastmod>2011-06-10T16:55:14+00:00</lastmod>
   <changefreq>weekly</changefreq>
-  <priority>0.8</priority>
+  <priority>0.5</priority>
 </url>
 <url>
   <loc>http://www.fashionandfurnishing.co.uk/fashion/alterations.htm</loc>
@@ -90,8 +84,5 @@
   <lastmod>2011-06-10T17:10:02+00:00</lastmod>
   <changefreq>never</changefreq>
   <priority>0.3</priority>
-  <geo:geo>
-	<geo:format>kml</geo:format>
-  </geo:geo>
 </url>
 </urlset>
