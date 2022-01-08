@@ -13,7 +13,7 @@
 	<table>
 		<tr>
 			<td><a href="/index.htm">Home</a></td>
-			<td><a href="/fashion-furnishings/about.htm">About F&F </a></td>
+			<td><a href="/fashion-furnishings/about.htm">About F&amp;F </a></td>
 			<td><a href="/fashion-furnishings/how-we-work.htm">How We Work </a></td>
 			<td><a href="/fashion-furnishings/contacts.htm">Contacts</a></td>
 			<td><a href="/fashion-furnishings/links.htm">Links</a></td>
@@ -26,7 +26,7 @@
 	$(function() {
 		$('.smallmenu a').css("text-decoration","none");
 		pages = $('.pagecontent').attr("id");
-		if (pages.length > 0)
+		if (pages!=null && pages.length > 0)
 		{
 			menuitem=$('.smallmenu a:contains('+$('.pagecontent').attr("id")+')');
 			if (menuitem.length > 0)
@@ -49,16 +49,6 @@
 			<div class="description">
 				<h2>Furniture</h2>
 				<p>Small bespoke pieces of furniture.</p>
-			</div>
-			</a>
-		</li>
-		<li class="bg2">
-			<a href="/fashion/alterations.htm">
-			<div class="heading">Alterations</div>
-			<div class="bgDescription"></div>
-			<div class="description">
-				<h2>Alterations</h2>
-				<p>Designer and general garment alterations.</p>
 			</div>
 			</a>
 		</li>

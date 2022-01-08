@@ -84,6 +84,7 @@ H2
 	display: block;
 	border: 1px solid #998F79;
 	padding: 2px;  /* ??? padding at the bottom can be different for some reason, not the same for all browsers */
+	padding-bottom: 0px;  /* ??? padding at the bottom can be different for some reason, not the same for all browsers */
 }
 .imagemenu A:hover
 {
@@ -98,10 +99,4 @@ H2
 .mainimage-right
 {
 	float: right;
-}
-.find-us
-{
-	color: #700070;
-	font-size: x-small;
-	font-weight:bold;
 }
